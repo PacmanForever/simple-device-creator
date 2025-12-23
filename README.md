@@ -5,7 +5,7 @@
 [![Validate HACS](https://github.com/PacmanForever/simple-device-creator/actions/workflows/validate_hacs.yml/badge.svg)](https://github.com/PacmanForever/simple-device-creator/actions/workflows/validate_hacs.yml)
 [![Validate Hassfest](https://github.com/PacmanForever/simple-device-creator/actions/workflows/validate_hassfest.yml/badge.svg)](https://github.com/PacmanForever/simple-device-creator/actions/workflows/validate_hassfest.yml)
 
-A Home Assistant integration that allows users to create simple virtual devices for testing and development purposes.
+A Home Assistant integration that allows users to create custom and empty devices.
 
 ## Installation
 
