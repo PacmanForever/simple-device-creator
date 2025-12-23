@@ -1,5 +1,5 @@
 """Constants for Simple Device Creator integration."""
-DOMAIN = "simple_device_creator"
+DOMAIN = "simple-device-creator"
 PLATFORMS = []  # No platforms, only devices
 
 # Device configuration keys
