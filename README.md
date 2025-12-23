@@ -35,10 +35,12 @@ After installation, add the integration through the Home Assistant UI:
 
 ## Features
 
-- Create virtual sensors with customizable values
-- Support for different data types (temperature, humidity, etc.)
-- Easy configuration through the UI
-- Real-time value updates
+- Create custom device entries in Home Assistant's device registry
+- Configure device properties (name, manufacturer, model, versions, configuration URL)
+- Add device connections (MAC addresses, IP addresses, etc.)
+- Manage devices through an intuitive configuration flow
+- Support for device creation, editing, and deletion
+- Empty device containers ready for integration with other components
 
 ## Contributing
 
